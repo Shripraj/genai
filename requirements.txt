@@ -1,0 +1,6 @@
+ipykernel
+langchain
+langchain_community
+langchain_core
+langchain_Ollama
+langchain.chains
